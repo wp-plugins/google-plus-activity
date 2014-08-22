@@ -1,0 +1,21 @@
+#gplus-activity {width:100%; padding:0px; border-radius:12px; overflow:auto;}
+.gplus-posts{ width:100%; border-top:1px dotted #CCC; float:left; padding:8px 0px 8px 0px; }
+.gplus-text p { margin:0px; line-height:15px;}
+.gplus-text a,h1 a { color: #00acee; text-decoration: none; }
+.gplus-text a:hover,h1 a:hover { text-decoration: underline; color: #00acee; }
+.gplus-user img{
+float: left;
+margin: 0px 10px 5px 0px;
+}
+.gplus-user{
+font-weight: bold;
+}
+.gplus-bottom{
+font-size: 11px;
+}
+.gplus-bottom .gplus-time{
+float: left;
+}
+.gplus-bottom .gplus-readmore{
+text-align: right;
+}
