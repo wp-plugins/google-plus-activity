@@ -150,7 +150,7 @@ class GooglePlusActivity extends WP_Widget{
 		</div>
 	</div>
 	<?php endforeach; ?>
-	<div style='color:#ccc; font-size: 9px; text-align:right;'><a href='http://www.allpromotionalapparel.com/' title='Click Here' target='_blank'>Logo Polo Shirts</a></div>
+	<div style='color:#ccc; font-size: 9px; text-align:right;'><a href='http://www.pictureframeguys.com/' title='Click Here' target='_blank'>Picture Frames</a></div>
 </div>
 <?php
     echo $after_widget;
