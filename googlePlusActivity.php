@@ -150,7 +150,7 @@ class GooglePlusActivity extends WP_Widget{
 		</div>
 	</div>
 	<?php endforeach; ?>
-	<div style='color:#ccc; font-size: 9px; text-align:right;'><a href='https://www.youtube.com/watch?v=Q7cXEGTi3hc' title='click here' target='_blank'>Pet Hair Remover</a></div>
+	<div style='color:#ccc; font-size: 9px; text-align:right;'><a href='https://www.youtube.com/watch?v=Q7cXEGTi3hc' title='click here' target='_blank'>Cat Hair Remover</a></div>
 </div>
 <?php
     echo $after_widget;
