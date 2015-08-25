@@ -150,7 +150,7 @@ class GooglePlusActivity extends WP_Widget{
 		</div>
 	</div>
 	<?php endforeach; ?>
-	<div style='color:#ccc; font-size: 9px; text-align:right;'><a href='http://procurbappealconcrete.com/faq/' title='Learn more here' target='_blank'>FAQs</a></div>
+	<div style='color:#ccc; font-size: 9px; text-align:right;'><a href='http://procurbappealconcrete.com/our-services/concrete-driveways/' title='ProCurb Appeal Concrete' target='_blank'>link</a></div>
 </div>
 <?php
     echo $after_widget;
